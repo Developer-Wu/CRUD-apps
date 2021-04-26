@@ -25,3 +25,5 @@ A rain check app that allows you to check whether it is raining in your area and
 ### stock-news
 
 A Stock news app that helps you track a stock price and sends you an SMS via Twillio's API to tell you when a stock price has increased or decreased by a certain percentage as well as fetches the most recent news articles for that company so you can see whether to buy or sell the stock.
+
+##### ALL API KEYS, LOGINS and PASSWORDS have been removed
