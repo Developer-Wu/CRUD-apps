@@ -1,4 +1,4 @@
-# crud-apps
+# CRUD Apps
 
 Description: A collection of useful one day build apps that are built as a way to improve my Python programming through project based learning.
 
